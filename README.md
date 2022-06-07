@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @judeeylander
 - 👀 I’m interested in coverting jpg or png to PDF for upload to MuseScore.
 - 🌱 I’m currently transcribing music files for Distributed Proofreaders for upload to Project Gutenberg.
-- 💞️ I’m looking to collaborate on how to create PDF from jpg or png that will upload to MuseScore. 
+- 💞️ I’m looking for software that will reliably create PDF from jpg or png that will upload to MuseScore. 
 - 📫 How to reach me: email. judeeylander@msn.com
 
 <!---
